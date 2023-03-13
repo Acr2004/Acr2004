@@ -1,4 +1,4 @@
-## Hi I'm Ricardo Piedade, 18 years old, Portuguese!
+## Hi I'm Ricardo Piedade, 19 years old, Portuguese!
 
 <div align="center">
   <a href="https://github.com/Acr2004">
