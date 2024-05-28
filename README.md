@@ -20,7 +20,9 @@
   <a href="https://www.linkedin.com/in/ricardo-piedade-725485230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
+<br />
+<br />
+
 ## My Projects
   - ### Rocketseat Explorer
       - #### Stage 2
@@ -28,4 +30,3 @@
           - [Stunning Destinations](https://github.com/Acr2004/Projeto-01-Extra-Stage-2-Rocketseat)
           - [Treine Me](https://github.com/Acr2004/Projeto-02-Stage-2-Rocketseat)
           - [Rocket Sect](https://github.com/Acr2004/Projeto-02-Extra-Stage-2-Rocketseat)
-</div>
