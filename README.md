@@ -26,6 +26,6 @@
   - ### Rocketseat Explorer
       - #### Stage 2
           - [Unique Environments](https://github.com/Acr2004/Projeto-01-Stage-2-Rocketseat){:target="_blank"}
-          - [Stunning Destinations](https://github.com/Acr2004/Projeto-01-Extra-Stage-2-Rocketseat){:target="_blank"}
-          - [Treine Me](https://github.com/Acr2004/Projeto-02-Stage-2-Rocketseat){:target="_blank"}
-          - [Rocket Sect](https://github.com/Acr2004/Projeto-02-Extra-Stage-2-Rocketseat){:target="_blank"}
+          - [Stunning Destinations](https://github.com/Acr2004/Projeto-01-Extra-Stage-2-Rocketseat)
+          - [Treine Me](https://github.com/Acr2004/Projeto-02-Stage-2-Rocketseat)
+          - [Rocket Sect](https://github.com/Acr2004/Projeto-02-Extra-Stage-2-Rocketseat)
